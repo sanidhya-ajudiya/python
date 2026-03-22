@@ -24,3 +24,5 @@ print(my_dog.sleep())
 
 # Dog can also do dog things
 print(my_dog.bark())
+
+print(my_dog2.eat())
